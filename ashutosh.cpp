@@ -1,0 +1,1 @@
+hello name is aksh and i am from delhi and working in a company as a software developer. I have experience in C++ and Python programming languages. I am passionate about coding and always eager to learn new technologies. In my free time, I enjoy playing video games and exploring new places.
